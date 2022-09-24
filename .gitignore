@@ -1,0 +1,5 @@
+*.json
+**/*.json
+t5/data
+!t5/data/pro.py
+__pycache__
